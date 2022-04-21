@@ -2,6 +2,23 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+# En la parte principal tenemos el Home El cuál tiene todas las rutas las cuáles tiene
+->saveMoney .\
+->quantityCoin .\
+->currencyAmount .\
+->howManyCoins .\
+->howMuchMoney
+# En la parte de currencyValues he creado todas las denominación de las diferentes monedas
+
+
+
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
